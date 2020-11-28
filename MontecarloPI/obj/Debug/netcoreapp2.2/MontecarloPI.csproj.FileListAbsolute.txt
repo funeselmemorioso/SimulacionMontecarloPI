@@ -1,0 +1,11 @@
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\bin\Debug\netcoreapp2.2\MontecarloPI.deps.json
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\bin\Debug\netcoreapp2.2\MontecarloPI.runtimeconfig.json
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\bin\Debug\netcoreapp2.2\MontecarloPI.runtimeconfig.dev.json
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\bin\Debug\netcoreapp2.2\MontecarloPI.dll
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\bin\Debug\netcoreapp2.2\MontecarloPI.pdb
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.csprojAssemblyReference.cache
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.csproj.CoreCompileInputs.cache
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.AssemblyInfoInputs.cache
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.AssemblyInfo.cs
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.dll
+C:\Users\Nicolin\source\repos\MontecarloPI\MontecarloPI\obj\Debug\netcoreapp2.2\MontecarloPI.pdb
